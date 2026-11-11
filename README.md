@@ -8,7 +8,7 @@
 
 <!-- ===== 3. BADGES ===== -->
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=2c5364" /></a>
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/github/followers/jamestbridgesiii?label=Followers&style=for-the-badge&color=2c5364" /></a>
   <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=2c5364&label=Profile+Views" />
 </p>
 
