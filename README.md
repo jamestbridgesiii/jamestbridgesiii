@@ -3,7 +3,7 @@
 
 <!-- ===== 2. ANIMATED TYPING LINE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Construction+Materials+Lab+Tech;Self-taught+Programmer;Radiation+Safety+Officer;I+automate+the+boring+lab+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Quality+Systems+Manager;Self-taught+Programmer;Radiation+Safety+Officer" alt="Typing SVG" />
 </p>
 
 <!-- ===== 3. BADGES ===== -->
