@@ -43,7 +43,7 @@
 | [**Lab Test Automation**] | Batch-fills, completes, and signs lab test records in a web LIMS | Node, Playwright |
 | [**Gauge Check-In Kiosk**] | Tablet kiosk for nuclear gauge check-in/out, synced to Google Sheets | Android, Apps Script |
 | [**Soil Blend Optimizer**] | Finds soil blends that hit target USCS plasticity specs | Excel VBA |
-| [**USACE Data Management Program**] | Program that follows the USACE Data Managmeent  |
+| [**USACE Data Management Program**] | Program that follows the USACE Data Management Requirements | SQL, Excel VBA |
 
 ---
 
@@ -55,17 +55,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jamestbridgesiii&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamestbridgesiii/jamestbridgesiii/output/github-snake-dark.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  </picture>
 </p>
 
 <!-- ===== FOOTER WAVE ===== -->
