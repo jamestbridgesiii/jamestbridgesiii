@@ -1,5 +1,5 @@
 <!-- ===== 1. BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=James%20T.%20Bridges&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=James%20T.%20Bridges%20III%20(J.T.)&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ===== 2. ANIMATED TYPING LINE ===== -->
 <p align="center">
