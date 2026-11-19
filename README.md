@@ -53,7 +53,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamestbridgesiii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamestbridgesiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jamestbridgesiii&theme=tokyonight&hide_border=true" />
