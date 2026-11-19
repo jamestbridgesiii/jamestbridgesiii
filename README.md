@@ -40,6 +40,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Equipment Check-In System**] | Program a tablet app for checking in field equipment, comes preloaded with pictures, checklists, and easy user-friendly UI.
+| [**Classification System**] | Program a node script to classify based on calculated sieve analysis & plasticity results.  |
 | [**Lab Test Automation**] | Batch-fills, completes, and signs lab test records in a web LIMS | Node, Playwright |
 | [**Gauge Check-In Kiosk**] | Tablet kiosk for nuclear gauge check-in/out, synced to Google Sheets | Android, Apps Script |
 | [**Soil Blend Optimizer**] | Finds soil blends that hit target USCS plasticity specs | Excel VBA |
