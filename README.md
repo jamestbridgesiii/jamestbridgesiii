@@ -46,7 +46,8 @@
 | [**Gauge Check-In Kiosk**] | Tablet kiosk for nuclear gauge check-in/out, synced to Google Sheets | Android, Apps Script |
 | [**Soil Blend Optimizer**] | Finds soil blends that hit target USCS plasticity specs | Excel VBA |
 | [**USACE Data Management Program**] | Program that follows the USACE Data Management Requirements | SQL, Excel VBA |
-
+| [**FiveM ox_inventory Throwables**] | LUA Script for GTA Mod FiveM that deals with throwable objects within ox_inventory | LUA |
+| [**FiveM lunapark upgrade**] | LUA Script for GTA Mod FiveM that hopefully updates the lunapark rideable amusement park files to allow modern onesync and fixes issues. | LUA, C# |
 ---
 
 ### 📊 GitHub Stats
